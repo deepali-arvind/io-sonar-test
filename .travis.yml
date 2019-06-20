@@ -11,7 +11,7 @@ addons:
   sonarcloud:
     organization: "deepali-arvind-github" # the key of the org you chose at step #3
     token:
-      secure: 081e2012239f75d61242a6d1d6605f0ee29dc019 # encrypted value of your token   
+      secure: dc4853e8914c9517ec761b3bcea359289a8e85bf # encrypted value of your token   
  
 language: node_js
 node_js:
