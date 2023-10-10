@@ -34,7 +34,7 @@
     },
     "dependencies": {
         "@angular/common": "6.0.4",
-        "@angular/core": "6.0.4",
+        "@angular/core": "10.2.5",
         "@angular/forms": "6.0.4",
         "@angular/http": "6.0.4",
         "@angular/language-service": "6.0.4",
